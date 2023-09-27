@@ -1,0 +1,45 @@
+@font-face{
+    font-family: myfont;
+    src:url(calcfont.ttf.ttf)
+}
+
+
+.fullbody{
+   
+}
+
+
+.separator {
+    font-family: myfont;
+    align-items: center;
+    
+}
+.body{
+    margin: 0px;
+
+   
+}
+
+.head {
+    font-size: 30px;
+    text-align: center;
+    border-style: none;
+    border-radius: 10px;
+    background-color: rgb(26, 24, 88);
+}
+
+
+
+.token {
+    border-style: hidden;
+    border-radius: 360px;
+
+}
+.buttons{
+    text-align: center;
+}
+
+.textbox{
+    margin: 0px,0px,0px;
+}
+
